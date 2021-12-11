@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "gCalc", "gCalc\gCalc.csproj", "{FDF30FDB-431B-48AE-A5FA-65550174E8AC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpftest", "wpftest\wpftest.csproj", "{7DCE5623-EBD9-46D4-A8E3-101617F9F512}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Debug|x64.ActiveCfg = Debug|x64
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Debug|x64.Build.0 = Debug|x64
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Release|x64.ActiveCfg = Release|x64
+		{FDF30FDB-431B-48AE-A5FA-65550174E8AC}.Release|x64.Build.0 = Release|x64
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Debug|x64.Build.0 = Debug|Any CPU
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Release|x64.ActiveCfg = Release|Any CPU
+		{7DCE5623-EBD9-46D4-A8E3-101617F9F512}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F609DCC8-088F-4683-AC68-6E7BB900C185}
+	EndGlobalSection
+EndGlobal
