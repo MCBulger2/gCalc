@@ -1,5 +1,5 @@
 # gCalc
-![screenshot](gcalc.png?raw=true)
+![screenshot](https://raw.githubusercontent.com/MCBulger2/gCalc/main/gcalc.jpg)
 # Overview
 
 gCalc is a simple Graphing Calculator written in C# using WinForms. Compared to gCalc v1, this version is rewritten from the ground up with several key optimizations in mind.
